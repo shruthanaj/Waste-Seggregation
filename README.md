@@ -84,7 +84,7 @@ After downloading, convert annotations to YOLO format using the provided script 
 
 ## 📊 Results Summary
 
-**Test set (150 images) **
+**Test set (150 images)**
 
 | Model          | mAP50 | mAP50-95 | Precision | Recall | CPU Speed (ms/img) | FPS (CPU) |
 |----------------|-------|----------|-----------|--------|--------------------|------------|
